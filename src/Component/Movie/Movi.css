@@ -1,0 +1,26 @@
+.movie-container{
+     display: flex;
+     justify-content: space-around;
+}
+.movie-card {
+     border: 2px solid green;
+     margin-bottom: 20px;
+     border-radius: 15px;
+}
+.movie-card img{
+     width: 240px;
+     padding: 25px;
+}
+.movie-info{
+     text-align: center;
+}
+.movie-d{
+     display: flex;
+     justify-content: space-around;
+}
+.btn{
+     width: 100%;
+     background: orangered;
+     outline: none;
+     border: none;
+}

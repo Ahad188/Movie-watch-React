@@ -1,0 +1,16 @@
+.parent{
+     display: grid;
+     grid-template-columns: 4fr 1fr;
+     grid-gap: 20px;
+}
+.card-container{
+     border: 2px solid red;
+     margin-top: 30px;
+     padding: 30px;
+}
+.side-container{
+     margin: 30px auto;
+     border: 2px solid pink;
+     width: 100%;
+     text-align: center;
+}
